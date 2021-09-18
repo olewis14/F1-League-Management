@@ -1,5 +1,5 @@
 # F1-League-Management
-F1 League Management is an Excel template designed to help F1 2021 league owners track points, penalties, and other league statistics. Below is a summary each page.
+F1 League Management is an Excel template designed to help F1 2021 league owners track points, penalties, and other league statistics. Below is a summary of each page.
 
 **League Management**
 
