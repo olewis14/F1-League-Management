@@ -9,7 +9,7 @@ F1 League Management is an Excel template designed to help F1 2021 league owners
 
 **Championships**
 
-- Standard championship standings for driver and constructors.
+- Standard championship standings for drivers and constructors.
 
 **Results Tables**
 
