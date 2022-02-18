@@ -54,7 +54,7 @@ If you are experiencing problems or running into errors in the workbook, please 
 F1LM is free, but donations are welcome and appreciated
 
 
-![f1LM 1](https://user-images.githubusercontent.com/50423545/133862601-b765ecde-9964-48da-ac6a-9bd404670b18.PNG)
+![image](https://user-images.githubusercontent.com/50423545/154766108-fb777867-b1bc-4692-bc75-fc86b3b3eb1a.png)
 
 ![F1LM 2](https://user-images.githubusercontent.com/50423545/133862603-94093911-aaf4-43f0-98c1-49f89937c46f.PNG)
 
