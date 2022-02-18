@@ -1,40 +1,53 @@
 # F1-League-Management
-F1 League Management is an Excel template designed to help F1 2021 league owners track points, penalties, and other league statistics. Below is a summary of each page.
+F1 League Management is an Excel template designed to help F1 2021 league owners track points, penalties, and other league statistics.
 
 If you are experiencing problems or running into errors in the workbook, please look at https://github.com/masterplane8/F1-League-Management/issues/3 for possible solutions.
 
 **League Management**
 
-- Where you will enter the league's track list, all participating drivers, and team assignments. 
-- Race Director: This shows the next race in the league’s calendar and penalty information for each driver. You can refer to this page before each race to check for bans. 
-- League Settings: You can customize aspects of the sheet such as how many points each position will earn drivers, how many points it takes to earn a qualifying and race ban, and other options that personalize your league. 
+- Customize aspects of the sheet such as
+  - enabling custom team names and tracks, 
+  - how many points each position will earn drivers
+  - how many points it takes to earn a qualifying and race ban
+  - points for pole and fastest laps
+  - other options that personalize your league. 
+ 
+- Set the league's track list, all participating drivers, and team assignments. 
+- View the Race Director, which shows the next race in the league’s calendar and penalty information for each driver. You can refer to this page before each race to check for bans. 
 
 **Championships**
 
-- Standard championship standings for drivers and constructors.
+- Standard championship standings for drivers and constructors. Includes an indication for magnitude of position changes as a season progresses. 
 
-**Results Tables**
+**Final Classifications**
 
-- All post-race information that the game offers is entered here. There are four categories that must be filled out for each participating driver. 
+- Enter all post-race information that the game offers into these tables. There are four categories that must be filled out for each participating driver. 
   - Qualifying Result
   - Time From Leader
   - Fastest Lap
   - Reserve Team (only for reserve drivers)
-- Any league administered penalties including time penalties, penalty points, and bans are entered into each race's corresponding penalties table, located after each race’s results table. 
+- Any league administered penalties including time penalties, penalty points, and bans are entered into each race's corresponding penalties table, located next to each race’s final classifications table. 
 
 **Race/Qualifying Results**
 
-- These are separate pages that show each driver's final result in each session.
-- Race Results will indicate drivers who earned fastest lap and color-code results by position. 
+- Separate pages that show each driver's final result in each session.
+- Race Results indicates drivers who earned fastest lap and color-codes results by position. 
 
 **Race Reports**
 
 - Automatically filled out each for each race. Consider this the equivalent to the in-game post race results. 
 - Below each race report are incident reports. In these tables, you can present league administered penalties and give explanations as to why they were administered. 
 
-**Driver Statistics**
+**League Statistics**
 
-- Various league related statistics for all drivers
+- Various league related statistics for all drivers and teams including:
+  - 16 unique statistics for each driver
+  - 12 unique statistics for each team
+  - Graphs that show the progression of driver and team points over a season.
+ 
+ **Teammate Comparrisons**
+
+- Side-by-side comparrisons of drivers and their teammates. Compares 11 statitics and indicates which driver leads in each statistic.
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=YYGWMED2CQPK6&no_recurring=0&currency_code=USD)
 
