@@ -45,9 +45,9 @@ If you are experiencing problems or running into errors in the workbook, please 
   - 12 unique statistics for each team
   - Graphs that show the progression of driver and team points over a season.
  
- **Teammate Comparrisons**
+ **Teammate Comparisons**
 
-- Side-by-side comparrisons of drivers and their teammates. Compares 11 statitics and indicates which driver leads in each statistic.
+- Side-by-side comparisons of drivers and their teammates. Compares 11 statistics and indicates which driver leads in each statistic.
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=YYGWMED2CQPK6&no_recurring=0&currency_code=USD)
 
