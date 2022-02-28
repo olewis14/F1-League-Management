@@ -53,7 +53,7 @@ If you are experiencing problems or running into errors in the workbook, please 
 
 
 
-F1LM is free, but donations are welcome and appreciated
+F1LM is free, but donations are welcome and appreciated.
 Paypal: @olewis380
 Venmo: @Owen_Lewis
 
