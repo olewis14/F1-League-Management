@@ -51,9 +51,11 @@ If you are experiencing problems or running into errors in the workbook, please 
 
 - Side-by-side comparisons of drivers and their teammates. Compares 11 statistics and indicates which driver leads in each statistic.
 
-[![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate?business=YYGWMED2CQPK6&no_recurring=0&currency_code=USD)
+
 
 F1LM is free, but donations are welcome and appreciated
+Paypal: @olewis380
+Venmo: @Owen_Lewis
 
 
 ![image](https://user-images.githubusercontent.com/50423545/154766108-fb777867-b1bc-4692-bc75-fc86b3b3eb1a.png)
