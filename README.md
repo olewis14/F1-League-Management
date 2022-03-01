@@ -3,9 +3,9 @@ F1 League Management is an Excel template designed to help F1 2021 league owners
 
 _F1LM is currently in Beta. Updates are frequent and features are subject to change._
 
-For help with transfering data to new versions of the spreadsheet as they come out, reference
+- For help with transferring data to new versions of the spreadsheet as they come out, reference https://github.com/masterplane8/F1-League-Management/wiki/Tranfering-Data-to-a-New-Version
 
-If you are experiencing problems or running into errors in the workbook, please look at https://github.com/masterplane8/F1-League-Management/issues/3 for possible solutions.
+- If you are experiencing problems or running into errors in the workbook, please look at https://github.com/masterplane8/F1-League-Management/issues/3 for possible solutions.
 
 **League Management**
 
