@@ -1,7 +1,5 @@
 # F1-League-Management
-F1 League Management is an Excel template designed to help F1 22 league owners track points, penalties, and other league statistics.
-
-_F1LM is currently in Beta. Updates are frequent and features are subject to change._
+F1 League Management is an Excel template designed to help F1 23 league owners track points, penalties, and other league statistics.
 
 - For help with transferring data to new versions of the spreadsheet as they come out, reference https://github.com/masterplane8/F1-League-Management/wiki/Tranfering-Data-to-a-New-Version
 - If you are experiencing problems or running into errors in the workbook, please look at https://github.com/masterplane8/F1-League-Management/issues/3 for possible solutions.
@@ -10,7 +8,7 @@ _F1LM is currently in Beta. Updates are frequent and features are subject to cha
 Paypal: @olewis380
 Venmo: @Owen_Lewis
 
-- Contact me on Discord: MASTERPLANE8#8620
+- Contact me on Discord: owenlewis
 
 
 
