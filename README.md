@@ -9,6 +9,7 @@ Paypal: @olewis380
 Venmo: @Owen_Lewis
 
 - Contact me on Discord: owenlewis
+- I also costumize this worksheet for non-traditional leagues at a cost. Charges are based on the scale of the customization.
 
 
 
