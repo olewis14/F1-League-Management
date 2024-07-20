@@ -1,5 +1,5 @@
 # F1-League-Management
-F1 League Management is an Excel template designed to help F1 23 league owners track points, penalties, and other league statistics.
+F1 League Management is an Excel template designed to help F1 24 league owners track points, penalties, and other league statistics.
 
 - For help with transferring data to new versions of the spreadsheet as they come out, reference https://github.com/masterplane8/F1-League-Management/wiki/Tranfering-Data-to-a-New-Version
 - If you are experiencing problems or running into errors in the workbook, please look at https://github.com/masterplane8/F1-League-Management/issues/3 for possible solutions.
@@ -55,9 +55,6 @@ Venmo: @Owen_Lewis
   - 12 unique statistics for each team
   - Graphs that show the progression of driver and team points over a season.
  
- **Teammate Comparisons**
-
-- Side-by-side comparisons of drivers and their teammates. Compares 11 statistics and indicates which driver leads in each statistic.
 
 
 
